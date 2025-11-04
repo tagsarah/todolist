@@ -18,13 +18,10 @@ It allows users to add, mark, and delete tasks easily — helping them stay orga
 - Working with Git, GitHub, and VS Code  
 - Basic front-end design and layout  
 
-## 🚀 Future Improvements
-- Add due dates and priorities  
-- Add dark/light mode  
-- Connect it with a database for saving tasks permanently  
 
 ---
 
 👩‍💻 **Created by:** [Sarah Tag](https://github.com/tagsarah)  
 🌸 Beginner Front-End Developer & Agronomy Student
+
 
